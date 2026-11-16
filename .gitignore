@@ -1,0 +1,38 @@
+# Gradle & Kotlin
+.gradle/
+.kotlin/
+.build-tools/
+build/
+*/build/
+
+# Local config & signing secrets
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Build outputs & bytecode
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Android Studio & IDE
+.idea/
+*.iml
+.vscode/
+.cxx/
+.externalNativeBuild/
+.navigation/
+captures/
+*.hprof
+
+# Logs & OS files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
