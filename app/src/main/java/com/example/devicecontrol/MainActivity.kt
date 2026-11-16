@@ -471,7 +471,7 @@ private fun ControlScreen(
         item {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Column(modifier = Modifier.weight(1f)) {
-                    PageTitle("设备控制", "点击设备开始使用")
+                    PageTitle("轻饮", "点击设备开始使用")
                 }
                 IconButton(
                     onClick = {
